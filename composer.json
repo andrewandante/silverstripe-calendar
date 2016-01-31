@@ -3,10 +3,6 @@
     "description": "Highly flexible calendar system for SilverStripe",
     "type": "silverstripe-module",
     "homepage": "https://github.com/andrewandante/silverstripe-calendar",
-    "repositories": [{
-        "type": "vcs",
-        "url": "http://github.com/Nodge/lessphp"
-    }],
     "keywords": [
         "silverstripe",
         "calendar",

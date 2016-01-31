@@ -11,6 +11,7 @@ class Calendar extends DataObject
 
     public static $db = array(
         'Title' => 'Varchar',
+        'ImportURL' => 'Varchar',
     );
 
     public static $has_many = array(
